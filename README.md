@@ -5,10 +5,7 @@ Olá, seja muito(a) bem-vindo(a) ao FullCycle Invest, esse projeto tem como obje
 ## Tabela de Conteúdos
 
 - [Introdução](#introdução)
-- [Instalação](#instalação)
-- [Utilização](#utilização)
 - [Tecnologias](#tecnologias)
-- [Contribuições](#contribuições)
 - [Contato](#contato)
 - [Licença](#licença)
 
